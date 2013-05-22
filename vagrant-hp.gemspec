@@ -5,9 +5,9 @@ Gem::Specification.new do |s|
   s.name          = "vagrant-hp"
   s.version       = VagrantPlugins::HP::VERSION
   s.platform      = Gem::Platform::RUBY
-  s.authors       = "Mohit Sethi"
-  s.email         = "mohit@sethis.in"
-  s.homepage      = "http://github.com/mohitsethi/vagrant-hp"
+  s.authors       = "Mohit Sethi, Leonardo Eloy"
+  s.email         = "mohit@sethis.in, leonardo.eloy@gmail.com"
+  s.homepage      = "http://github.com/leonardoeloy/vagrant-hp"
   s.summary       = "Enables Vagrant to manage machines on HP Cloud."
   s.description   = "Enables Vagrant to manage machines on HP Cloud."
 
